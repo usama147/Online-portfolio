@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2fb310fc4605ba12eb1d",
+    "revision": "1075978eca36cd5b8a96",
     "url": "/Online-portfolio/static/css/main.124604bd.chunk.css"
   },
   {
-    "revision": "2fb310fc4605ba12eb1d",
-    "url": "/Online-portfolio/static/js/main.2fb310fc.chunk.js"
+    "revision": "1075978eca36cd5b8a96",
+    "url": "/Online-portfolio/static/js/main.1075978e.chunk.js"
   },
   {
     "revision": "fb2c43c22ab42e65e67d",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/Online-portfolio/static/js/runtime~main.a5c49a38.js"
   },
   {
-    "revision": "76567418b21817481fa6920cd9273aa3",
-    "url": "/Online-portfolio/static/media/CV.76567418.pdf"
+    "revision": "25b209ef025327f596012fb51b4a3504",
+    "url": "/Online-portfolio/static/media/Usama Gierdien CV.25b209ef.pdf"
   },
   {
     "revision": "8eb72ea6927b25fad5ae96bd88a9e79c",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Online-portfolio/static/media/css.107ba640.png"
   },
   {
-    "revision": "cd09c159bd4dd9f7a5715b5cc5fe4f0c",
+    "revision": "5f48cdb3ba69c32108a91077c10cb204",
     "url": "/Online-portfolio/index.html"
   }
 ];
